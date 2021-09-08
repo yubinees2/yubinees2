@@ -4,26 +4,24 @@
 ### Linux system
 - Bootloader
 - Linux kernel
-- Linux kernel module
-- Device Tree
+- Kernel module & Device driver & device tree
 - BASH
 
 ### Optimization & Scheduling
-- Deadline scheduling
-- CPU & Memory scheduling policy
+- CPU scheduling policy
+- Memory & Cache affinity
 - Multiprocessing with shared resource
 
 ### Data Platform
-- Virtual File System
-- Distributed File System
-- RAID
-- SQL(MySQL, Oracle)
-- NoSQL(MongoDB)
-
+- Database (MariaDB, Oracle, MongoDB)
+- MQTT (Kafka, RabbitMQ)
+- Python Django
+- Redis
+- NIFI
 
 ## Currently
 - ARM64
-- linux boot process
+- linux boot process (head.S, start.S)
 
 
 <!---
